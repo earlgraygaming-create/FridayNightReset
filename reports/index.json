@@ -1,0 +1,46 @@
+{
+  "colorPalette": "electric-blue",
+  "axiTheme": "flat",
+  "glass": false,
+  "glassSurfaces": false,
+  "generator": {
+    "app": "axibridge",
+    "version": "3.22.9"
+  },
+  "entries": [
+    {
+      "id": "20261023-211200-m38q",
+      "title": "R Ó N Î N",
+      "commanders": [
+        "R Ó N Î N"
+      ],
+      "guild": {
+        "id": "378A1947-BBB4-EF11-8465-02315AB41281",
+        "name": "Quagganic Order Of The Sacred",
+        "tag": "YEET"
+      },
+      "dateStart": "2026-10-24T02:12:00.000Z",
+      "dateEnd": "2026-10-24T03:04:01.244Z",
+      "dateLabel": "10/23/2026, 9:12:00 PM - 10/23/2026, 10:04:01 PM",
+      "url": "https://earlgraygaming-create.github.io/FridayNightReset/?report=20261023-211200-m38q",
+      "publishedBy": "earlgraygaming-create",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 29,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 17
+      }
+    }
+  ]
+}
